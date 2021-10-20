@@ -81,4 +81,4 @@ client.on("message", async (message) => {
     }
 });
 // @ts-ignore
-client.login("Nzk1NjA3NTIyNjU5NjYzOTEz.X_L1Pw.xH9j0RD2CM2-82nuafEzDmpzTI4");
+client.login("Put your token");
