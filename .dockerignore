@@ -1,0 +1,5 @@
+# Build and Release Folders
+/dist/**
+
+# Managed dependencies
+/node_modules
